@@ -1,0 +1,33 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="BuildMode_ChangeTime">
+			<DisplayName>Tanah Ilusi</DisplayName>
+			<Desc>Jam berapa Anda ingin menyesuaikan waktunya?</Desc>
+			<Selections.0.Display>Pagi</Selections.0.Display>
+			<Selections.1.Display>Siang</Selections.1.Display>
+			<Selections.2.Display>Dingin</Selections.2.Display>
+			<Selections.3.Display>Waktu malam</Selections.3.Display>
+			<Selections.4.Display>Sudahlah.</Selections.4.Display>
+		</Text>
+		<Text Name="BuildMode_ChangeSeason">
+			<DisplayName>Tanah Ilusi</DisplayName>
+			<Desc>Musim apa yang ingin Anda ubah?</Desc>
+			<Selections.0.Display>Musim semi</Selections.0.Display>
+			<Selections.1.Display>Musim panas</Selections.1.Display>
+			<Selections.2.Display>Musim gugur</Selections.2.Display>
+			<Selections.3.Display>Musim dingin</Selections.3.Display>
+			<Selections.4.Display>Sudahlah.</Selections.4.Display>
+		</Text>
+		<Text Name="BuildMode_ChangeWeather">
+			<DisplayName>Tanah Ilusi</DisplayName>
+			<Desc>Jam berapa Anda ingin mengubah cuaca?</Desc>
+			<Selections.0.Display>Hujan ringan/salju</Selections.0.Display>
+			<Selections.1.Display>Hujan lebat/salju</Selections.1.Display>
+			<Selections.2.Display>Badai debu</Selections.2.Display>
+			<Selections.3.Display>Malam abadi</Selections.3.Display>
+			<Selections.4.Display>Badai petir</Selections.4.Display>
+			<Selections.5.Display>Cuacanya cerah.</Selections.5.Display>
+			<Selections.6.Display>Sudahlah.</Selections.6.Display>
+		</Text>
+	</List>
+</Texts>
