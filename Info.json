@@ -1,8 +1,8 @@
 ﻿{
   "LastRelease": null,
   "LoadInfo": false,
-  "Name": "LanguageIndonesia",
-  "DisplayName": "LanguageIndonesia",
+  "Name": "IndonesiaLanguage",
+  "DisplayName": "IndonesiaLanguage",
   "GameVersion": 0.0,
   "Version": "2.1",
   "Desc": "MOD By KamalMlvnd(Main) & Edit By Kimi谢谢(Sub)",
@@ -17,9 +17,4 @@
   "Dependencies": null,
   "Url": "https://github.com/lelyizha-stack/Xero",
   "VersionValue": 201.0
-}  "IsInsideCreat": false,
-  "Previews": null,
-  "Dependencies": null,
-  "Url": "https://github.com/gsqstudio/acs1_mod_thailandlanguage",
-  "VersionValue": 106.0
 }
