@@ -4,16 +4,17 @@
   "Name": "IndonesianLanguage",
   "DisplayName": "IndonesianLanguage",
   "GameVersion": 0.0,
-  "Version": "1.4",
-  "Desc": "MOD by.KamalMlvnd, 95% Terjemahan Ke Dalam Bahasa Indonesia.",
+  "Version": "1.4D",
+  "Desc": "MOD by.KamalMlvnd, Edit by.Kimi谢谢.",
   "Author": "KamalMlvnd",
   "UIPackage": null,
-  "ID": "BMA",
+  "ID":
   "Flag": 0,
   "Tags": null,
-  "IncreasedDesc": "Update! Memperbaiki Beberapa Suku Kata",
+  "IncreasedDesc": "- Perbaikan Text\r\n- Sedikit Perbaikan diterjemahan\r\n- Perbaikan Color",
   "IsInsideCreat": false,
   "Previews": null,
   "Dependencies": null,
   "Url": "https://github.com/lelyizha-stack/Xero",
-  "VersionValue": 104.
+  "VersionValue":
+}
