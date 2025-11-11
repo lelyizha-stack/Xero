@@ -4,7 +4,7 @@
   "Name": "IndonesianLanguage",
   "DisplayName": "IndonesianLanguage",
   "GameVersion": 0.0,
-  "Version": "1.4D",
+  "Version": "1.4",
   "Desc": "MOD by.KamalMlvnd, Edit by.Kimi谢谢.",
   "Author": "KamalMlvnd",
   "UIPackage": null,
@@ -16,5 +16,4 @@
   "Previews": null,
   "Dependencies": null,
   "Url": "https://github.com/lelyizha-stack/Xero",
-  "VersionValue": 104.0
-}
+  "VersionValue": 104.
